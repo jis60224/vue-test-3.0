@@ -10,4 +10,7 @@
 p{
   background: red;
 }
+h1{
+  color: yellow;
+}
 </style>
