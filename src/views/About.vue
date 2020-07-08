@@ -5,3 +5,9 @@
     <p>还有谁？</p>
   </div>
 </template>
+
+<style scoped>
+p{
+  background: red;
+}
+</style>
